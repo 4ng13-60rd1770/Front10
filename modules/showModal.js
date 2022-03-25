@@ -1,5 +1,5 @@
 export const showModal = async (idCard, container)=> {
-    let res = await fetch (`http://locahost:4000/Hombres/${idCard}`);
+    let res = await fetch (`http://locahost:4000/Hombres/${idCard}`, `http://locahost:4000/Mujer/${idCard}`);
     let data = await res.json();
 
     localStorage.setItem('producto',JSON.stringify(data))
@@ -27,3 +27,4 @@ export const showModal = async (idCard, container)=> {
     </div>
  </div>`
 }
+
