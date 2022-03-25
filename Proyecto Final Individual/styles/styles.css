@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@200;&display=swap");
+
+* {
+  margin: 0;
+}
+div.menu1 {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-family: "Prompt", sans-serif;
+  text-align: center;
+  margin: auto;
+}
+nav {
+  position: sticky;
+  width: 100%;
+  background-color: #ffff;
+}
+
+nav ul {
+  text-align: center;
+  list-style: none;
+  font-size: 30px;
+  font-family: "Prompt", sans-serif;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 2%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+
+nav ul li a:hover {
+  font-size: 40px;
+  border-bottom: solid blueviolet;
+}
+img.logo {
+  float: left;
+  padding: 5px;
+  margin: 1%;
+}
+
+button.carrito {
+  float: right;
+  margin-top: 3%;
+  background-color: white;
+  border: #ffff;
+  margin-right: 40px;
+}
+
+button.user {
+    float: right;
+    margin-right: 50px;
+    margin-top: 3%;
+    background-color: white;
+    border: #ffff;
+  }
+
+  button.search{
+    float: right;
+    margin-right: 50px;
+    margin-top: 3%;
+    background-color: white;
+    border: #ffff;
+  }
+
+section.banner {
+  background-image: url(/img/banner.webp);
+  background-repeat: no-repeat;
+  height: 100px;
+  text-align: left;
+  background-size: cover;
+  filter: brightness(80%);
+  padding: 10%;
+}
+
+p.bienvenido {
+  font-family: "Prompt", sans-serif;
+  color: #ffff;
+  text-align: left;
+  font-size: 50px;
+  display: block;
+  width: 100%;
+}
+p.sub {
+  font-family: "Prompt", sans-serif;
+  color: #ffff;
+  text-align: left;
+  font-size: 30px;
+  display: block;
+  width: 100%;
+}
+button.conocer {
+  padding: 15px;
+  text-align: center;
+  background-color: black;
+  border: solid black;
+  color: #ffff;
+  font-family: "Prompt", sans-serif;
+  font-size: 15px;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+section.hombre {
+  background-image: url(/img/hombre.webp);
+  background-repeat: no-repeat;
+  width: 440px;
+  height: 519px;
+  text-align: center;
+  display: inline-block;
+  filter: brightness(50%);
+  margin: 8%;
+  color: #ffff;
+}
+
+section.mujer {
+  background-image: url(/img/mujer.webp);
+  background-repeat: no-repeat;
+  width: 440px;
+  height: 519px;
+  text-align: center;
+  display: inline-block;
+  filter: brightness(50%);
+  margin: 8%;
+  color: #ffff;
+}
+button.info {
+  position: absolute;
+  padding: 10px;
+  margin-top: 30%;
+  font-family: "Prompt", sans-serif;
+  background-color: black;
+  color: #ffff;
+  border: black;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+footer {
+  text-align: center;
+}
+p.text {
+  font-family: "Prompt", sans-serif;
+}
+h2 {
+  font-family: "Prompt", sans-serif;
+}
+p {
+  font-family: "Prompt", sans-serif;
+}
+h6 {
+  font-family: "Prompt", sans-serif;
+  padding: 10px;
+}
