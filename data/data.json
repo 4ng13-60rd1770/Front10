@@ -1,0 +1,216 @@
+{
+  "Hombres": [
+    {
+      "id": 1,
+      "name": "BÓXER DE TIRO BAJO - MODERN STRUCTURE",
+      "price": "424000",
+      "image": "https://i.ibb.co/19CvH16/1.webp",
+      "description": "BÓXER DE TIRO BAJO - MODERN STRUCTURE"
+    },
+    {
+      "id": 2,
+      "name": "SLIM JEANS",
+      "price": "469900",
+      "image": "https://i.ibb.co/zZ0f2Kd/2.webp",
+      "description": "SLIM JEANS"
+    },
+    {
+      "id": 3,
+      "name": "SUDADERA DE ALGODÓN ORGÁNICO CON CAPUCHA Y CREMALL",
+      "price": "375920",
+      "image": "https://i.ibb.co/GMVLZ3D/3.webp",
+      "description": "SUDADERA DE ALGODÓN ORGÁNICO CON CAPUCHA Y CREMALL"
+    },
+    {
+      "id": 4,
+      "name": "CHAQUETA ACOLCHADA CON CREMALLERA",
+      "price": "424000",
+      "image": "https://i.ibb.co/TWtXfMc/4.webp",
+      "description": "CHAQUETA ACOLCHADA CON CREMALLERA"
+    },
+    {
+      "id": 5,
+      "name": "CAMISETA CON LOGO GRABADO",
+      "price": "424000",
+      "image": "https://i.ibb.co/TYcrBzW/5.webp",
+      "description": "CAMISETA CON LOGO GRABADOA"
+    },
+    {
+      "id": 6,
+      "name": "CAMISETA CON LOGO GRABADO",
+      "price": "244000",
+      "image": "https://i.ibb.co/MhWPLm3/7.webp",
+      "description": "CAMISETA CON LOGO GRABADO"
+    },
+    {
+      "id": 7,
+      "name": "CAMISETA CON LOGO GRABADO",
+      "price": "244000",
+      "image": "https://i.ibb.co/HtgkWQJ/8.webp",
+      "description": "CAMISETA CON LOGO GRABADO"
+    },
+    {
+      "id": 8,
+      "name": "CKJ JEANS 035 STRAIGHT",
+      "price": "244000",
+      "image": "https://i.ibb.co/TPSRWgv/6.webp",
+      "description": "CKJ JEANS 035 STRAIGHT"
+    },
+    {
+      "id": 9,
+      "name": "CAMISA SLIM ESTILO DOBBY",
+      "price": "209940",
+      "image": "https://i.ibb.co/TPSRWgv/6.webp",
+      "description": "CAMISA SLIM ESTILO DOBBY"
+    },
+    {
+      "id": 10,
+      "name": "SUDADERA DE CUELLO REDONDO CON LOGO EN CENTRO CK",
+      "price": "369900",
+      "image": "https://i.ibb.co/SncyqSW/10.webp",
+      "description": "SUDADERA DE CUELLO REDONDO CON LOGO EN CENTRO CK"
+    },
+    {
+      "id": 11,
+      "name": "PANTALÓN DE CHÁNDAL CON MULTILOGO DE ALGODÓN ORGÁN",
+      "price": "369900",
+      "image": "https://i.ibb.co/2hRdmpG/11.webp",
+      "description": "PANTALÓN DE CHÁNDAL CON MULTILOGO DE ALGODÓN ORGÁN"
+    },
+    {
+      "id": 12,
+      "name": "CALZONCILLO 3PZ P/CABALLERO",
+      "price": "199000",
+      "image": "https://i.ibb.co/k64B3Vr/12.webp",
+      "description": "CALZONCILLO 3PZ P/CABALLERO"
+    },
+    {
+      "id": 13,
+      "name": "MEDIA CASUAL P/CABALLEROS - TALLA:40-46",
+      "price": "41930",
+      "image": "https://i.ibb.co/Pgz4gB1/13.webp",
+      "description": "MEDIA CASUAL P/CABALLEROS - TALLA:40-46"
+    },
+    {
+      "id": 14,
+      "name": "BILLETERA P/CABALLERO - TALLA:OS",
+      "price": "41930",
+      "image": "https://i.ibb.co/YDs3PG7/14.jpg",
+      "description": "BILLETERA P/CABALLERO - TALLA:OS"
+    },
+    {
+      "id": 15,
+      "name": "CINTURÓN CON LOGO",
+      "price": "160000",
+      "image": "https://i.ibb.co/XYFZK20/15.webp",
+      "description": "CINTURÓN CON LOGO"
+    }
+  ],
+  "Mujer": [
+      {
+        "id": 16,
+        "name": "BRASIER P/ DAMA",
+        "price": "199000",
+        "image": "https://ibb.co/vk7ycFg",
+        "description": "BRASIER P/ DAMA"
+      },
+      {
+        "id": 17,
+        "name": "SUETER DE INVIERNO P/ DAMA",
+        "price": "257940",
+        "image": "https://ibb.co/GJF7W8q",
+        "description": "SUETER DE INVIERNO P/ DAMA"
+      },
+      {
+        "id": 18,
+        "name": "VESTIDO CALVIN KLEIN JEANS CON ELASTICO DE LOGO MULTIPLE CALVIN KLEIN JEANS",
+        "price": "389900",
+        "image": "https://ibb.co/Jsg2417",
+        "description": "VESTIDO CALVIN KLEIN JEANS CON ELASTICO DE LOGO MULTIPLE CALVIN KLEIN JEANS"
+      },
+      {
+        "id": 19,
+        "name": "VESTIDO - CAMISA RELAJADO CALVIN KLEIN JEANS",
+        "price": "589000",
+        "image": "https://ibb.co/M1yzp1V",
+        "description": "VESTIDO - CAMISA RELAJADO CALVIN KLEIN JEANS"
+      },
+      {
+        "id": 20,
+        "name": "BAÑADOR CON CUELLO ABIERTO - CK LOGO",
+        "price": "289000",
+        "image": "https://ibb.co/VY2mNLT",
+        "description": "BAÑADOR CON CUELLO ABIERTO - CK LOGO"
+      },
+      {
+        "id": 21,
+        "name": "VESTIDO PARA DAMA",
+        "price": "334000",
+        "image": "https://ibb.co/wcSDWNk",
+        "description": "VESTIDO PARA DAMA"
+      },
+      {
+        "id": 22,
+        "name": "PARTE DE ARRIBA DE BIKINI BANDEAU - INTENSE POWER",
+        "price": "189000",
+        "image": "https://ibb.co/JKMqXJ2",
+        "description": "PARTE DE ARRIBA DE BIKINI BANDEAU - INTENSE POWER"
+      },
+      {
+        "id": 23,
+        "name": "CAMISETA DE PIJAMA - CK ONE",
+        "price": "129000",
+        "image": "https://ibb.co/znDDtwY",
+        "description": "CAMISETA DE PIJAMA - CK ONEs"
+      },
+      {
+        "id": 24,
+        "name": "PANTALONES PARA ESTAR EN CASA - CK ONE",
+        "price": "189000",
+        "image": "https://ibb.co/cvgtvKh",
+        "description": "PANTALONES PARA ESTAR EN CASA - CK ONE"
+      },
+      {
+        "id": 25,
+        "name": "PIJAMA CK ONE BASIC LOUNGE JERSEY",
+        "price": "103000",
+        "image": "https://ibb.co/5R014gw",
+        "description": "PIJAMA CK ONE BASIC LOUNGE JERSEY"
+      },
+      {
+        "id": 26,
+        "name": "PANTALONES PARA ESTAR EN CASA - CK ONE",
+        "price": "189000",
+        "image": "https://ibb.co/KjWcSqD",
+        "description": "PANTALONES PARA ESTAR EN CASA - CK ONE"
+      },
+      {
+        "id": 27,
+        "name": "BAÑADOR CON CUELLO ABIERTO",
+        "price": "231000",
+        "image": "https://ibb.co/r4tPNhT",
+        "description": "BAÑADOR CON CUELLO ABIERTO"
+      },
+      {
+        "id": 28,
+        "name": "PARTE DE ABAJO DE BIKINI CON LAZADAS - CORE FESTIV",
+        "price": "169000",
+        "image": "https://ibb.co/58B9RZ5",
+        "description": "PARTE DE ABAJO DE BIKINI CON LAZADAS - CORE FESTIV"
+      },
+      {
+        "id": 29,
+        "name": "MORRALES PARA DAMA - TALLA:OS",
+        "price": "412000",
+        "image": "https://ibb.co/9wGGnHP",
+        "description": "MORRALES PARA DAMA - TALLA:OS"
+      },
+      {
+        "id": 30,
+        "name": "FALDA MILANO CON ELASTICO DE LOGO MULTIPLE CALVIN KLEIN JEANS",
+        "price": "215000",
+        "image": "https://ibb.co/x5WmtmK",
+        "description": "FALDA MILANO CON ELASTICO DE LOGO MULTIPLE CALVIN KLEIN JEANS"
+      }
+]
+}
